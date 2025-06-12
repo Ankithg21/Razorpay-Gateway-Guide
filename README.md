@@ -1,5 +1,10 @@
 # RAZORPAY GATEWAY - GUIDE
 
+for more details, check out their official Docs-
+```
+https://github.com/razorpay/razorpay-node/tree/master/documents
+```
+
 ## Orders
 
 ### Create order
